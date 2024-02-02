@@ -20,7 +20,7 @@ export default function Login({ navigation }) {
                             </TouchableOpacity>
                             <Text style={{
                                 fontSize: 24,
-                                fontWeight: '500', color: '#fff', marginTop: 20
+                                fontWeight: '500', color: '#fff', marginTop: 20,
                             }}>Sign Up</Text>
                         </View>
 
