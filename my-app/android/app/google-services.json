@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271055691640",
+    "project_id": "expoapp-2448a",
+    "storage_bucket": "expoapp-2448a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271055691640:android:41bc1d54c4f3f7499a728d",
+        "android_client_info": {
+          "package_name": "com.anonymous.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7tKsjOTVD9BoCPE1OKBQ3MUCao-Kbd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
