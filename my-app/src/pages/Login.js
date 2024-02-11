@@ -3,7 +3,7 @@ import React from 'react'
 import { Feather } from '@expo/vector-icons';
 import { AntDesign } from '@expo/vector-icons';
 import database from '@react-native-firebase/database';
-const reference = database().ref('/raj/1');
+/* const reference = database().ref('/raj/1'); */
 
 const height = Dimensions.get('window').height
 const width = Dimensions.get('window').width
